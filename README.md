@@ -1,0 +1,3 @@
+AI Business Automation is an intelligent workflow system designed to streamline customer interaction and lead management using automation tools. The project uses a Telegram bot to collect customer details, validate inputs, and respond instantly. The collected data is then sent into an automated workflow (n8n) where tasks like saving leads, sending alerts, and triggering follow-up actions happen automatically.
+
+It removes manual work, reduces response time, and ensures every lead is captured accurately. Overall, the project shows how AI + automation can simplify business operations, improve customer experience, and boost productivity for small and medium businesses.
